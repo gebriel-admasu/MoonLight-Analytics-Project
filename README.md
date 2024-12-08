@@ -1,4 +1,4 @@
-# 🌞 Solar Radiation Dashboard
+Solar Radiation Dashboard
 
 An interactive Streamlit dashboard to explore and analyze solar radiation and environmental data for multiple regions. Designed for **AI Mastery Week 0 Challenge by Kifiya AI Mastery**.
 
