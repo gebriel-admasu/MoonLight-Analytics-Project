@@ -48,7 +48,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    # Deploy to Streamlit
+    # Deploy Streamlit App
     - name: Deploy Streamlit App
       run: |
         pip install streamlit
